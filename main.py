@@ -98,7 +98,6 @@ bot.send(
             types.BotCommand(
                 command="clean",
                 description="فایلەکانی RAW پاک دەکاتەوە"
-"
             ),
             types.BotCommand(
                 command="pause",
